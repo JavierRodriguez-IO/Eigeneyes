@@ -6,7 +6,7 @@ MATLAB code to build a statistical shape model of the whole eye ("eigeneyes") fr
 
 ## Requirements
 
-- MATLAB (tested with R20XXx)
+- MATLAB (tested with R2025b)
 - Statistics and Machine Learning Toolbox (`cvpartition`)
 
 ## Repository structure

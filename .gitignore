@@ -1,0 +1,18 @@
+# Clinical data (not distributed: patient privacy)
+Data/*
+!Data/.gitkeep
+
+# Model/CV outputs: large and contain per-subject data
+Results/*.mat
+!Results/.gitkeep
+
+# MATLAB
+*.asv
+*.m~
+*.mex*
+slprj/
+codegen/
+
+# OS
+.DS_Store
+Thumbs.db

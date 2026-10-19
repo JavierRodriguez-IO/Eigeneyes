@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "Eigeneyes: A statistical model of whole-eye geometry and its applications"
+abstract: >-
+  MATLAB code to build a statistical shape model of the whole eye
+  (eigeneyes) from ocular biometry surfaces using principal component
+  analysis (SVD), and to evaluate it with subject-grouped 10 x 10
+  cross-validation.
+authors:
+  - given-names: Estela
+    family-names: Vadillo
+  - given-names: Álvaro
+    name-particle: de la
+    family-names: Peña
+  - given-names: Javier
+    family-names: Rodríguez-Sánchez
+  - given-names: Alberto
+    name-particle: de
+    family-names: Castro
+  - given-names: Susana
+    family-names: Marcos
+  - given-names: Eduardo
+    family-names: Martínez-Enríquez
+version: 1.0.0
+date-released: "2026-10-19"
+license: GPL-3.0-or-later
+repository-code: "https://github.com/JavierRodriguez-IO/Eigeneyes"
+keywords:
+  - eigeneyes
+  - statistical shape model
+  - principal component analysis
+  - whole-eye geometry
+  - ocular biometry
+  - MATLAB
